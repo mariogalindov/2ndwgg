@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.jumbotron {
+    background-color: black;
+    margin-bottom: 5px;
+}
+
+img {
+    width: 35em;
+}
+#imgContainer {
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
